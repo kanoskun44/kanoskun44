@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ¡Hola! Soy [Jorge Lopez And Snake] 
 
-![Mi foto](https://i.ibb.co/27b1Wky1/Github-Img.png)
+![Mi foto](https://i.ibb.co/3mXzSXnp/Github-Img.png)
 
 ### 🌟 **Estadísticas GitHub**  
 ![](https://komarev.com/ghpvc/?username=tu-usuario&color=blue)  
