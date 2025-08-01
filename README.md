@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ¡Hola! Soy [TU NOMBRE COMPLETO] 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ¡Hola! Soy [Jorge Lopez And Snake] 
 
-![Mi foto]([https://ibb.co/tMdTQJ4T) 
+![Mi foto](https://i.ibb.co/27b1Wky1/Github-Img.png)
 
 ### 🌟 **Estadísticas GitHub**  
 ![](https://komarev.com/ghpvc/?username=tu-usuario&color=blue)  
